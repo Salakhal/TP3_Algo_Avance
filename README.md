@@ -13,23 +13,23 @@ TP3/
 ├── src/
 │ ├── serieharmonique/
 │ │ └── Ex1SerieHarmonique.java
-│ │
+│ │ └── ex1.PNG
 │ ├── triangleetoiles/
 │ │ └── Ex2TriangleEtoiles.java
-│ │
+│ │ └── EX2.PNG
 │ ├── carresimpairs/
 │ │ └── Ex3CarresImpairs.java
-│ │
+│ │ └── EX3.PNG
 │ ├── tableauxutil/
 │ │ ├── Ex4TableauxUtil.java
 │ │ └── TestTableauxUtil.java
-│ │
+│ │ └── EX4.PNG
 │ ├── rotationmatrice/
 │ │ └── Ex5RotationMatrice.java
-│ │
+│ │ └── EX5.PNG
 │ └── fenetreglissante/
 │ └── Ex6FenetreGlissanteDistinct.java
-│
+│ └── EX6.PNG
 └── README.md
 ```
 
