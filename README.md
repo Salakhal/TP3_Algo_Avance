@@ -45,7 +45,7 @@ Calcul de la somme des `n` premiers termes de la série harmonique :
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-![Exécution du programme](ex1.PNG)
+![Exécution du programme](serieharmonique/ex1.PNG)
 
 ---
 
@@ -56,7 +56,7 @@ Affichage d’un triangle isocèle formé d’étoiles `*` aligné à gauche.
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-![Exécution du programme](EX2.PNG)
+![Exécution du programme](triangleetoiles/EX2.PNG)
 
 ---
 
@@ -67,7 +67,7 @@ Création et affichage d’un tableau contenant les carrés des `n` premiers nom
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-![Exécution du programme](EX3.PNG)
+![Exécution du programme](carresimpairs/EX3.PNG)
 
 ---
 
@@ -82,7 +82,7 @@ Classe proposant :
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-![Exécution du programme](EX4.PNG)
+![Exécution du programme](tableauxutil/EX4.PNG)
 
 ---
 
@@ -93,7 +93,7 @@ Rotation **en place** d’une matrice carrée `N×N` de 90° dans le sens horair
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-![Exécution du programme](EX5.PNG)
+![Exécution du programme](rotationmatrice/EX5.PNG)
 
 ---
 
@@ -104,7 +104,7 @@ Calcul du **nombre de valeurs distinctes** dans chaque fenêtre de taille `k` d�
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-![Exécution du programme](EX6.PNG)
+![Exécution du programme](fenetreglissante/EX6.PNG)
 
 ---
 
