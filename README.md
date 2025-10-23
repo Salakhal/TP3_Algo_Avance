@@ -45,7 +45,7 @@ Calcul de la somme des `n` premiers termes de la série harmonique :
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-![Exécution du programme](execution.PNG)
+![Exécution du programme](ex1.PNG)
 
 ---
 
