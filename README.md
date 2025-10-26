@@ -35,9 +35,9 @@ TP3/
 
 ---
 
-## 🧠 Exercices inclus
+##  Exercices inclus
 
-### 🔹 Exercice 1 — Série Harmonique
+###  Exercice 1 — Série Harmonique
 Calcul de la somme des `n` premiers termes de la série harmonique :
 > 1 + 1/2 + 1/3 + ... + 1/n
 
@@ -49,7 +49,7 @@ Voici un exemple de l'exécution du programme (screenshot) :
 
 ---
 
-### 🔹 Exercice 2 — Triangle d'Étoiles
+###  Exercice 2 — Triangle d'Étoiles
 Affichage d’un triangle isocèle formé d’étoiles `*` aligné à gauche.
 
  ##  Exemple d’exécution (image)
@@ -60,7 +60,7 @@ Voici un exemple de l'exécution du programme (screenshot) :
 
 ---
 
-### 🔹 Exercice 3 — Carrés des Nombres Impairs
+###  Exercice 3 — Carrés des Nombres Impairs
 Création et affichage d’un tableau contenant les carrés des `n` premiers nombres impairs.
 
  ##  Exemple d’exécution (image)
@@ -71,7 +71,7 @@ Voici un exemple de l'exécution du programme (screenshot) :
 
 ---
 
-### 🔹 Exercice 4 — Classe utilitaire pour Tableaux 2D
+###  Exercice 4 — Classe utilitaire pour Tableaux 2D
 Classe proposant :
 - Affichage d’un tableau 2D  
 - Vérification de la régularité  
@@ -97,7 +97,7 @@ Voici un exemple de l'exécution du programme (screenshot) :
 
 ---
 
-### 🔹 Exercice 6 — Fenêtre Glissante
+###  Exercice 6 — Fenêtre Glissante
 Calcul du **nombre de valeurs distinctes** dans chaque fenêtre de taille `k` d’un tableau, en **O(n)**.
 
  ##  Exemple d’exécution (image)
