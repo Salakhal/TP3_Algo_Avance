@@ -104,7 +104,8 @@ Calcul du **nombre de valeurs distinctes** dans chaque fenêtre de taille `k` d�
  
 Voici un exemple de l'exécution du programme (screenshot) : 
 
-![Exécution du programme](fenetreglissante/EX6.PNG)
+
+<img width="599" height="188" alt="image" src="https://github.com/user-attachments/assets/3acc0efe-559c-4d27-a95c-f6bccc308655" />
 
 ---
 
